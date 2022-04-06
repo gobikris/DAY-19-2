@@ -1,0 +1,26 @@
+#first-name,#last-name,#pincode,#state,#address,#country{
+    width:250px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    
+}
+body{
+    background-color: lightblue;
+    font-family:'Times New Roman', Times, serif ;
+}
+.bg{
+    background-color: gold;
+    border-radius: 25px;
+}
+h1{
+    margin-top: 15px;
+}
+.bgt{
+    background-color: gold ;
+    border-radius: 15px;
+    color: black;
+}
+table{
+    border-radius: 15px;
+}
